@@ -585,7 +585,7 @@ blockquote {
 }
 
 .contact-icon.icon-2 {
-  margin-left: 72px;
+  margin-left: 80px;
   padding-left: 0px;
   background-image: url('../images/font-awesome_4-6-3_phone_100_0_b4b4b4_none_1font-awesome_4-6-3_phone_100_0_b4b4b4_none.png');
   background-position: 0px 50%;
@@ -594,7 +594,7 @@ blockquote {
 }
 
 .contact-icon.icon-3 {
-  margin-left: 63px;
+  margin-left: 77px;
   background-image: url('../images/font-awesome_4-6-3_envelope_100_0_b4b4b4_none_1font-awesome_4-6-3_envelope_100_0_b4b4b4_none.png');
   background-position: 0px 50%;
   background-size: 22px;
@@ -998,7 +998,7 @@ blockquote {
 .image-3 {
   margin-top: -8px;
   padding-top: 0px;
-  border-radius: 10px;
+  border-radius: 20px;
 }
 
 .div-block-17 {
@@ -1051,7 +1051,9 @@ blockquote {
 }
 
 .image-4 {
+  margin-top: -1px;
   padding-left: 15px;
+  border-radius: 20px;
 }
 
 @media screen and (max-width: 991px) {
